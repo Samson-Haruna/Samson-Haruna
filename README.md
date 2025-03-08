@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analysis, machine learning and AI
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love to eat
+- ⚡ Fun fact: i love to eat.
 
 <!---
 Samson-Haruna/Samson-Haruna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
